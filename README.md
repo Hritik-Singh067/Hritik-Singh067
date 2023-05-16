@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm currently learning Game Development
-
+I'm currently studing at VIT Bhopal University
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hritik-singh-754216229/) 
